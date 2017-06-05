@@ -100,7 +100,7 @@ $totalRows_Recordset2 = mysql_num_rows($Recordset2);
     <!--<link rel="SHORTCUT ICON" href=""><!--網頁圖示-->
     
     <link href="jquery-mobile/123.min.css" rel="stylesheet" type="text/css" />
-    <link href="jquery-mobile/jquery.mobile-1.4.5.min.css" rel="stylesheet"  />
+    <link href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" rel="stylesheet"  />
     
 	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
